@@ -1,5 +1,5 @@
 # WebPayrollSystem-ASP.NET
 WebPayrollSystem este o aplicație web ASP.NET destinată calculului salariilor într-o firmă.
 
-!(imagini/imagine1.JPG)
+![imagine1](imagini/Home.JPG)
 
